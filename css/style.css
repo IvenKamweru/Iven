@@ -1,0 +1,95 @@
+ body{
+
+     background-color: orange;
+      text-align: left;
+        /*padding: 30px*/
+        padding-left: 30px
+
+ }
+
+a:hover{
+    color: #e70c69
+;
+    border-bottom: darkgreen 1px solid;
+font-size: 20px;
+}
+
+p:hover{
+    color:green;
+     border-bottom: darkgreen 1px solid;
+    border-readius: 50px ;
+    font-size: 20px;
+}
+
+
+
+
+ a {
+     text-decoration: none;
+
+     color: white;
+
+ }
+
+ p{
+
+   color:purple;
+
+ }
+
+ .one{
+    color: green;
+
+
+ }
+
+
+ #one{
+
+     background-color: #21a599;
+ }
+#two{
+
+    background-color:  #900C3F
+;
+
+}
+
+
+
+ .two{
+
+     background-color:grey;
+     color:red;
+      border: green 1px dashed;
+      padding-left: 100px;
+
+      height:50%
+ }
+
+.three{
+
+     background-color:orange;
+     color:black;
+    border: green 1px dashed;
+ padding-left: 100px;
+       border-radius: 20px;
+    width:20%
+}
+.four{
+
+        background-color:white;
+     color:black;
+     border: green 1px dashed;
+
+    border-radius: 20px;
+    width:50%
+}
+.five{
+
+
+        background-color:black;
+     color:yellow;
+     border: green 1px dashed;
+     width:20%
+}
